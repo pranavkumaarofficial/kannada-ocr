@@ -1,0 +1,11 @@
+Run Anaconda Prompt
+
+
+
+
+conda activate tess
+streamlit run app3.py
+
+
+
+
